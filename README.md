@@ -6,7 +6,7 @@ This project focused on u&lizing the dataset from the Na&onal Ins&tute of Diabet
 
 Project Tasks:
 
-Descrip&ve Analysis:
+Descriptive Analysis:
 - Conducted a thorough examina&on of the dataset to understand the variables and their values. - Iden&fied missing values in specific columns (Glucose, BloodPressure, SkinThickness, Insulin, BMI) and addressed them appropriately.
 
 Data Type Analysis:
